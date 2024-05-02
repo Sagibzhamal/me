@@ -1,6 +1,5 @@
 body{
     margin: 0;
-    font-family: "Roboto", sans-serif;
     background-color: #f6f7eb;
 }
 .korobka{
@@ -243,3 +242,28 @@ img{
     text-align: center;
     font-size: 30px;
   }
+
+.tstext > h1{
+    font-family: "DM Serif Display";
+}
+.tstext > h2{
+    font-family: "DM Sans";
+}
+.abtext > h1{
+    font-family: "DM Serif Display";
+}
+.abtext > h2{
+    font-family: "DM Sans";
+}
+.myskills > h1{
+    font-family: "DM Serif Display";
+}
+.myskills > p{
+    font-family: "DM Sans";
+}
+.desc > h1{
+    font-family: "DM Serif Display";
+}
+.desc > p{
+    font-family: "DM Sans";
+}
